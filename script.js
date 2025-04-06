@@ -1,5 +1,5 @@
 // Hardcoded start time (replace this with the actual start time of your timer)
-const startTime = new Date("2025-04-05T18:00:00Z").getTime(); // Example: October 20, 2023, at midnight UTC
+const startTime = new Date("2025-04-06T18:00:00Z").getTime(); // Example: October 20, 2023, at midnight UTC
 
 // Total time in milliseconds (564 hours = 564 * 60 * 60 * 1000 milliseconds)
 const totalTimeInMilliseconds = 564 * 60 * 60 * 1000;
